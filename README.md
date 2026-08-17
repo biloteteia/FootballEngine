@@ -32,3 +32,6 @@ Voce poderá fazer simulações entre times fracos e fortes, testar diferentes t
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/c7f8a78e-02ea-4d4d-af2a-6c1516063d06" />
 
 ## Como jogar
+1. Baixe a pasta `1-Build` deste repositório.
+2. Abra a pasta `1-Build`.
+3. Execute o arquivo `.exe` para iniciar o jogo.
